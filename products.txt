@@ -1,0 +1,6 @@
+E001,Laptop Dell,799.99,50
+E002,Smartphone Samsung Galaxy,499.99,75
+E003,Tai Nghe Bluetooth,59.99,200
+E004,Màn Hình 24 inch,199.99,30
+E005,Bàn Phím Cơ,89.99,100
+E006,Chuột Không Dây,29.99,150
