@@ -2,7 +2,7 @@ package Nguoi;
 
 import java.util.ArrayList;
 
-public class Manager extends User {
+public class Manager extends User implements InfoDisplayable {
     // Constructor with complete details
     public Manager(String id, String name, String address, String phoneNumber, String username, String password) {
         super(id, name, address, phoneNumber, username, password);

@@ -1,6 +1,10 @@
-E001,Laptop Dell,799.99,50
-E002,Smartphone Samsung Galaxy,499.99,75
-E003,Tai Nghe Bluetooth,59.99,200
-E004,Màn Hình 24 inch,199.99,30
-E005,Bàn Phím Cơ,89.99,100
-E006,Chuột Không Dây,29.99,150
+P001,Laptop Dell XPS 13,1500.00,10
+P002,MacBook Pro 16,2500.00,5
+P003,Máy tính để bàn HP,800.00,15
+P004,Màn hình ASUS 24 inch,300.00,20
+P005,Bàn phím cơ Logitech,100.00,30
+P006,Chuột gaming Razer,70.00,25
+P007,Máy in Canon,200.00,8
+P008,Ổ cứng SSD Samsung 1TB,150.00,12
+P009,RAM Corsair 16GB,75.00,18
+P010,Bộ nguồn Cooler Master,100.00,15
